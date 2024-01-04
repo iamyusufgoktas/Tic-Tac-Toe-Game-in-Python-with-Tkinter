@@ -17,3 +17,4 @@
 * Players take turns clicking on the board.
 * After each game, the result is displayed, and players can click to play again.
 
+![Tic-tac-toe](https://github.com/iamyusufgoktas/Tic-Tac-Toe-Game-in-Python-with-Tkinter/assets/75531524/08beefaf-e6fa-4795-a6a7-db871a833dcb)
